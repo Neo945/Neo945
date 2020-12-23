@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I am Shreesh Srivastava aka [Neo](https://github.com/Neo945) 👋
 
-<!--
-**Neo945/Neo945** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently learning everything
+- 😎 Honestly, I started with Django, Reactjs etc. for my upcomming secret project 🤫
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love 90s Rock.
+- 📧 How to contact me via my [Email](<http://shreeshsrvstv@gmail.com/>)
 
-Here are some ideas to get you started:
+<details>
+  <summary> GitHub Stats</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Neo945&show_icons=true&hide_border=true" />
+
+</details>
