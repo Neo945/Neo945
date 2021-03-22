@@ -1,7 +1,7 @@
 ### Hi there, I am Shreesh Srivastava aka [Neo](https://github.com/Neo945) 👋
 
 - 🔭 I’m currently learning everything
-- 😎 Honestly, I started with Django, Reactjs etc. for my upcoming secret project 🤫
+- 😎 Honestly, I started with Django, Reactjs etc. for my upcoming project 🤫
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects and come up with more amazing ideas
 - ⚡ Fun fact: I love 90s Rock.
