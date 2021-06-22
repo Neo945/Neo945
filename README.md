@@ -8,8 +8,8 @@
 - 📧 You can contact me via my [Email](<http://shreeshsrvstv@gmail.com/>)
 
 <details>
-  <summary> GitHub Stats</summary>
+  <summary> GitHub Summery</summary>
 
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Neo945&show_icons=true&hide_border=true" />
-
+  ![Shreesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neo945&show_icons=true)<br/>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neo945)
 </details>
