@@ -11,5 +11,5 @@
   <summary> GitHub Summery</summary>
 
   ![Shreesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neo945&show_icons=true)<br/>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neo945)
+<!--   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neo945) -->
 </details>
