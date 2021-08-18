@@ -5,10 +5,10 @@
 
 <!-- <div align="center"> -->
   **Finally**, you have Discovered my Github profile.
-   - ⚡ I’m currently learning MEARN Stack
-   - ⚡ I’m working on MEARN Stack
-   - ⚡ I love MEARN Stack
-   - 🔭 Ask me about MEARN Stack
+   - ⚡ I’m currently learning MERN Stack
+   - ⚡ I’m working on MERN Stack
+   - ⚡ I love MERN Stack
+   - 🔭 Ask me about MERN Stack
    - 👯 I’m looking to collaborate with other content creators
    - 🥅 2021 Goals: Contribute more to Open Source projects and come up with more amazing ideas
    - ⚡ Fun fact: I love 90s Rock.
