@@ -1,4 +1,4 @@
-# Hello there, Welcome to [Neo](https://neo945.github.io/Portfolio/)'s Github
+# Hi there, I am [Neo](https://neo945.github.io/Portfolio/)
   <div>
     <img src="static/logo.svg" width="1000" height="500" alt="css-in-readme">
 </div>
