@@ -18,11 +18,11 @@
                     fill: white;
                 }
             }
-            #logo path:nth-child(3){
+<!--             #logo path:nth-child(3){
                 stroke-dasharray: 802px;
                 stroke-dashoffset: 802px;
-                animation: line 1s ease-in forwards;
-            }
+                animation: line 1s ease forwards;
+            } -->
             #logo > path:nth-child(4){
                 stroke-dasharray: 516px;
                 stroke-dashoffset: 516px;
